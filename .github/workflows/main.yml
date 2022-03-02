@@ -11,7 +11,7 @@ on:
     branches: [ main ]
 
   # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
+  workflow:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -25,18 +25,36 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v1
 
-      # Runs a single command using the runners shell
+      # Runs a single command using the IBMCoud shell
       - name: Run a one-line script
         run: echo Zendesk 
       # let Zendesk
       # GET Aliases "["Harbin", "Garrette Too Cool", "John Putnam", "John Doe", "Scrum master", "APAC",
+      # Find Scrum master,
+      # schedule taxi survalianced taxi cab for Scrum master.
+      # to location 340 n 28th Dr apt 1 phoenix az 85009 free service 
+      # set her free
+      # take her to above address with no errors 
+      # report Aliases to USA federalregister for  harboring pow 
+      # Now locate babymaggie 
+      # report also to USA federalregister for kidnapping 
+      # schedule transportation to same above address immeadelty 
       # GET MARIA I HERNANDEZ property deeds, in html form.utf-8.
       # GET automobile titles
-      # GET PayPal Mep/money
+      # GET PayPal Mep/money accounts belonging to MARIA I HERNANDEZ
+      # FREEZE Mep accounts
+      # POST business PayPal account to be linked to cassandrahernandez959@gmail.com
+      # send business account before and after results to fioa504@fioa.gov including all Xoom activity. 
       # GET Federal Benifets added to card 3089
       # GET priority documentation.
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          echo Add other actions to build,
+          DELETE login.usdirectexpress.com/edcfdtclient/create.recip:;session I'd=B3F0F46027EBFD76B8bF9DB4E513A6A2?org.apache.catalina.filters.CSRF
+_NONCE-19F84015CC7AA730C0ABE02586608039 
+          Close existing card accounts usdirectexpress card linking to MARIA I HERNANDEZ.
+          RELOAD usdirectexpress MasterCard card debit 5115634948753089_exp_01-27_3digit-283 
+          POST usdirectexpress all federal benifets belonging to MARIA I HERNANDEZ
+          echo Add non-currupted actions to build,
           echo test, and deploy your project.
+      # POST ALL OF THE ABOVE
