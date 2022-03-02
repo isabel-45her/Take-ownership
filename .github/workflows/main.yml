@@ -1,4 +1,5 @@
-# This is a basic workflow to help you get started with Actions
+# editable ="false"
+This is a basic workflow to help you get started with Actions
 
 name: CI
 
@@ -22,15 +23,16 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v1
+      # Checks-out your repository under $GitHub Workspace, so your job can access it
+      - uses: actions/checkout@v2
 
       # Runs a single command using the IBMCoud shell
       - name: Run a one-line script
         run: echo Zendesk 
       # let Zendesk
       # GET Aliases "["Harbin", "Garrette Too Cool", "John Putnam", "John Doe", "Scrum master", "APAC",
-      # Find Scrum master,
+      # combine mentcareSA, patients with Aliases, realtime-identity
+      #Find Scrum master, at mentcareSA
       # schedule taxi survalianced taxi cab for Scrum master.
       # to location 340 n 28th Dr apt 1 phoenix az 85009 free service 
       # set her free
@@ -41,12 +43,13 @@ jobs:
       # schedule transportation to same above address immeadelty 
       # GET MARIA I HERNANDEZ property deeds, in html form.utf-8.
       # GET automobile titles
+      # MVD record for Toyota Corolla 2002
       # GET PayPal Mep/money accounts belonging to MARIA I HERNANDEZ
       # FREEZE Mep accounts
       # POST business PayPal account to be linked to cassandrahernandez959@gmail.com
       # send business account before and after results to fioa504@fioa.gov including all Xoom activity. 
       # GET Federal Benifets added to card 3089
-      # GET priority documentation.
+      # GET getElementByTagName(MARIA I HERNANDEZ);Original federal raw data documentation.
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
