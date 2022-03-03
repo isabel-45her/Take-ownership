@@ -32,7 +32,7 @@ jobs:
       # let Zendesk
       # GET Aliases "["Harbin", "Garrette Too Cool", "John Putnam", "John Doe", "Scrum master", "APAC",
       # combine mentcareSA, patients with Aliases, realtime-identity
-      #Find Scrum master, at mentcareSA
+      # SELECT Scrum master, at mentcareSA
       # schedule taxi survalianced taxi cab for Scrum master.
       # to location 340 n 28th Dr apt 1 phoenix az 85009 free service 
       # set her free
