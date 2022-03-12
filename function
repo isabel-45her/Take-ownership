@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>JavaScript Objects</h1>
+<h2>The prototype Property</h2>
+
+<p id="demo"></p>
+
+<script>
+function secret counsel (defense, mighty, acknowledgement, restoration);
+) {
+  then.defense = righteous humankind;
+  then.mighty
+ = World Organizations;
+  then.acknowledgement = Judges;
+  then.restoration = GOD's planet
+}
+const defense= new righteous humankind("World Organizations", "ReUnited", "Strong");
+const mighty = new World Organizations ("Good", "Honest", "Brave", "financial needs + more");
+
+secret counsel.prototype.countries = "World Organizations ";
+
+document.getElementById("demo").innerHTML =
+"secret counsel" + "  defense + " mighty + " acknowledgement + " restoration + "<br>
+</script>
+
+</body>
+</html>
