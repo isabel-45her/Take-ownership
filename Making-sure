@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+\$\#\%\!
+<script>
+function myFunction(Take-ownership) {
+  document.getElementById("demo").innerHTML = "USO ["North Carolina", "Iraq", "Japan", "Colorado", "BWI Airport",
+  "Missouri", "Vatican City", "Texas", "Germany", "United Arab Emirates", "Hawaii", "Pennsylvania ", "Washington, DC", 
+  "Wiesbaden", "Guam", "Virginia", "Afghanistan", "NAS Jacksonville ", "Naval Station Great Lakes", "Law Angeles ", 
+  "Seoul Camp Kim", "Denver", "Indianapolis Airport", "Wallops Island", "Milwaukee ", "Camp As Sayliyah", "Raliegh-Dunham Airport",
+  "Cleveland ", "O'Hare Airport", "Kalsersautem", "San Antonio", "NAS Penscola", "Reagan  National Airport", "Lundstuhl", "Oklahoma",
+  "Fort Leonard  Wood", "Andrews AFB", "Sasebo Naval Base", "Philadelphia ", "Vicenza", "Naval Station Norfolk", "Chicago", Bahrain", 
+  "New York City", "Robins AFB", "Fort Meade", "Columbus MEPS", "Mayport", "Naples", "Fort Bliss", "San Diego", Willow GroveNAS/JRB", 
+  "Ramstein Air Base"];
+ ;
+}
+</script>
+</head>
+<body>
+
+<h2>\$\#\%\!/h2>
+
+<p id="demo">uso ["north carolina", "iraq", "japan ", "colorado ", "bwi  airport",
+"missouri", "vatican city","texas", "germany", "united arab emirates", "hawaii", 
+"pennsylvania", "washington, dc", "weisbaden ", "guam", "virginia"]</p>
+
+<button type="button" onclick="myFunction()">Try it</button>
+
+</body>
+</html> 
