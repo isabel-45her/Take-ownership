@@ -19,16 +19,51 @@ jobs:
   # This workflow contains a single job called "build"
   build:
     # The type of runner that the job will run on
-    runs-on: ubuntu-latest
+    runs-on: linux
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
+      # Xoom A PayPal Service
+      # My Account
+      # list all users
+      # history of transactions
+      # including clean-up
+      # maintenance
+      # inform swagger of all transactions.
+      # Remove the users
+      # Keep Account same
+      # Quick Send
+      # ignore U.S.A banner
+      # Send to existing account
+      # cassandrahernandez959@gmail.com
+      # send 1,000.00
+      # Recieving amount = $1,000.00
+      # Total 1,010.00USD
+      # cassandrahernandez959@gmail.com recieves 1,000.00 USD
+      # Transfer to: Debit Card x-0691
+      # Pay with Bank Account x-5231
+      # another transaction
+      # https://www.xoom.com/send-money/checout-transaction/review/order/21d6d669-92be-474a-b253-5ab6bd8a1a78
+      # Remove There"s an issue with your account that needs
+      # to be resolved  Log in to PayPal and go to the
+      # resolution center to provide the requested
+      # info
+      # Review and send
+      # Maria Hernandez
+      # Pickup: at Walmart Ria, Kroger, Fiesta Mart, Smiths
+      # Sending 999.00
+
+      # Approve order-905fOce6-2752-464d-b077-9098bc25ec3f
+      #Remove There's an issue with your account that needs
+      # needs to be resolved. Log in to PayPal and go to the
+      # resolution center to provide the requested info.
       # Checks-out your repository under $GitHub Workspace, so your job can access it
       - uses: actions/checkout@v2
 
-      # Runs a single command using the IBMCoud shell
-      - name: Run a one-line script
-        run: echo Zendesk 
+      # Runs a single command using Xoom
+      - name: Run a one-line-script
+<script src="https://www.paypal.com/sdk/js.client-id=
+        run:  
       # let Zendesk
       # GET Aliases "["Harbin", "Garrette Too Cool", "John Putnam", "John Doe", "Scrum master", "APAC",
       # combine mentcareSA, patients with Aliases, realtime-identity
