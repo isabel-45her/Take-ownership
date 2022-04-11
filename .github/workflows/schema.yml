@@ -1,36 +1,37 @@
 yaml
-"Account": {
-        "FullyTaking-ownership-of": "4999980001350691"
-        "Name": "Maria I Hernandez",
-        "Social Security Number": 350607056,
-        "D.O.B": 07-01-1972,
+   POST
+        4999980001350691,
+        "Name":Maria I Hernandez,
+        350607056,
+        07-01-1972,
         "ID":"D06064280",
-        "Emails": "cassandrahernandez959@gmail.com",
+        "cassandrahernandez959@gmail.com",
                   "isabel.45her@gmail.com",
                   "dgdghff@outlook.com"
-        "Phone-number": 4805266272,
-        "Address": 340 N 28 th Dr apt 1",
-        "City": "Phoenix",
-        "State": "AZ",
-        "Zip Code": 85009
-        "Class": "Recover-Assets",
+         4805266272,
+         340 N 28 th Dr apt 1",
+        "Phoenix",
+        "AZ",
+        "85009
+        "Recover-Assets",
         "99967628333243",
         "sb-"
         "get":"users-12565476",
               "12565476-9412bf39-41da-4046-9d2a-a9e34e837603",
               "github.com-marshallty"
         
-        "AccountType": "Owner",
-        "CurrencyRef": "United States Dollar",
-        "value": "USD",
-     "AccountsType": "["Recover","View","Take-ownership"]",
-        "transfer-funds-to": "49999800013550691",
-        "Delete": "SubAccounts",
-        "partnership": "false",
-        "Accounts Recievable":
-        "Restore Account balance": "avaliable balance 50,000",
-        "Payable-to": "Maria I Hernandez",
-     "files activate":
+        "Owner",
+        ""United States Dollar",
+        "USD",
+        "Recover","View","Take-ownership",
+        "transfer-funds-from 99967628333243 to""
+         card 49999800013550691,
+        "Delete"
+         -partnership
+        "Accounts Recievable"
+        "avaliable balance 5,770,000",
+        "Payable to "Maria I Hernandez",
+     "files activate"
         "abc.txt",
         "access.yml",
         "schema.yml",
@@ -49,10 +50,10 @@ yaml
         "submitbutton.php",
         "take-ownership.yml"
         "get-medical-records-for-Cassandra-A-Hernandez"
-        "
-     "Accountant": "Swagger provided",
-        "Remove current": "permanetly",
-        "NoExceptions": "no-ovverride"
+        
+        Swagger provided,
+         "permanetly",
+        "no-override"
         
 
 
