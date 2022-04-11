@@ -1,0 +1,30 @@
+   Remove policies
+   Device Name: 
+        VZN P008
+   Serial Number:
+        H3NPCX0244312LB
+   
+   IMEI:
+        356 135 071 707 727
+   IMEI SV: 01
+   Network: Verizon
+   Sim status:connected
+   Service state: In service
+   Restore Mobile network state: connected
+   MDN: +1 480-532-8900
+   WiFi MAC address: 70:8b:cd:e3:9a:3c
+   Fix coreect ip address:
+    Drop ip addresses from other locations from below:
+    fe80::728b:cdff:fee3:9a3c
+    192.168.91.129
+    2600:381:209e:8ed1:728b:cdff:fee3:9a3c
+    2600:381:209e:8ed1:3944:f8dd:439:1039
+    restore 4GHz
+    
+  Cox Communications:
+     Restore Network service:
+        NETGEAR99
+        5GHz
+        2.4GHz
+        abstract policies
+        

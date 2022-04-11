@@ -1,0 +1,107 @@
+git-ignore
+  -https://www.lawserver.com/law/state/arizona/az-laws/arizona_laws_12-1171 rel="dns-prefetch" href="https://github.githubassets.com">
+  <link rel="dns-prefetch" href="https://avatars.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
+  <link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
+  <link rel="preconnect" href="https://github.githubassets.com" crossorigin>
+  <link rel="preconnect" href="https://avatars.githubusercontent.com">
+<link crossorigin="anonymous" media="all" 
+"x-pjax-css-version" 
+
+  <script crossorigin="anonymous" defer="defer"
+  "x-pjax-js-version" content="d427542ab58bdbba04db6daf7cc8705964093198a21a0675bf9a257fe166a43b" data-turbo-track="reload">
+  browser-errors-url"
+  ="mask-icon" href="https://github.githubassets.com/pinned-octocat.svg" color="#000000">
+  
+  manifest" href="/manifest.json" crossOrigin="use-credentials">
+
+
+browser-optimizely-client-errors-url" 
+    <link rel="canonical" href="https://github.com/login" data-pjax-transient>
+   <body class="logged-out env-production page-responsive session-authentication" style="word-wrap: break-word;">
+    
+          <div id="unsupported-browser" class="unsupported-browser" hidden>
+  <div class="container-lg p-responsive clearfix d-flex flex-items-center py-2">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert mr-2 hide-sm color-fg-subtle">
+          <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+</svg>
+    <div class="d-flex flex-auto flex-column flex-md-row">
+      <div class="flex-auto min-width-0 mr-2" style="padding-top:1px">
+        <span>GitHub no longer supports this web browser.</span>
+        <a href="https://docs.github.com/articles/supported-browsers">
+          Learn more about the browsers we support.
+        
+
+
+
+        div class="header header-logged-out width-full pt-5 pb-4" role="banner"
+  <div class="container clearfix width-full text-center
+    <a class="header-logo" href="https://github.com/" aria-label="Homepage" data-ga-click="(Logged out) Header, go to homepage, icon:logo-wordmark">
+      <svg height="48" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="48" data-view-component="true" class="octicon octicon-mark-github">
+    path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"
+svg
+  
+
+
+
+    class="application-main "
+    data-commit-hovercards-enabled
+    data-discussion-hovercards-enabled
+    data-issue-and-pr-hovercards-enabled
+
+main id="js-pjax-container" data-pjax-container>
+        
+
+
+div class="auth-form px-3" id="login" >
+
+
+input type="hidden" name="ga_id" class="js-octo-ga-id-input"
+
+
+div data-pjax-replace id="js-flash-container">
+
+
+template class="js-flash-template">
+ div class="flash flash-full  {{ className }}">
+ div class="px-2" >
+ button class="flash-close js-flash-close" type="button" aria-label="Dismiss this message">
+svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
+svg
+  
+  value="unknown    
+  <div>{{ message }}</div>,
+  Notes.txt
+      
+  class="form-control",
+ &quot;:null,&quot,
+  %3A%2F%2F,
+li class="mr-3",
+javascript:void[0],
+0.txt
+
+
+  <div id="ajax-error-message" class="ajax-error-message flash flash-error" hidden>,
+
+
+      <div class="flash js-transform-notice" hidden>,
+        <button class="flash-close js-flash-close" type="button" aria-label="Dismiss this message">
+          <svg aria-label="Dismiss" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x",
+    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z",
+-transient="true" /><meta name="visitor-hmac" content="c8c5ee9c6136a0c81c4b193cb7fb278a1c3bb98397569a755c47f7e9ee636d64,
+
+<div class="flash js-transform-notice" hidden>
+        <button class="flash-close js-flash-close" type="button" aria-label="Dismiss this message">
+          <svg aria-label="Dismiss" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
+    
+/oa/448902?s=120&amp;u=bdcfd5461875bcb74a62556cad9755c420c7a78b&amp;v=4" />
+            </div>
+signup?return_to=%2Flogin%2Foauth%2Fauthorize%3Fclient_id%3D8df362485eea4ee1e737%26redirect_uri%3Dhttps%253A%252F%252Fintegrate.postman.com%252Fintegrations%252Fgithub_bulk%252Fcb%26scope%3Drepo%26state%3D0859a80f-90a4-428b-bd9a-ba76335127fe&amp;source=oauth"
+
+    <div class="Popover js-hovercard-content position-absolute" style="display: none; outline: none;" tabindex="0">
+  <div class="Popover-message Popover-message--bottom-left Popover-message--large Box color-shadow-large" style="width:360px;">
+  </div>
+,
+

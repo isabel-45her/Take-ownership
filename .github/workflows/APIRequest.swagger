@@ -1,0 +1,15 @@
+curl -X POST
+  "https://petstore.swagger.json/v1/api/swagger.json"
+  --header 'Content-Type:application/x-www-form-urencoded' \
+  --data-urlencoded
+  'grant type=url:https://petstore.swagger.json:params:oauth:grant-type:apikey'
+  <!-- 
+  @{
+      var fraud = "https://www.federalregister.gov/documents/2022/04/04/2022-07000/certain-uncoated-paper-from-portugal-preliminary-results-of-the-administrative-review-of-the;Andrew gives Mary's order of settin g me up.all she does is sits on my stairway smokes her perk or takes a hit of meth on my bubble.that is it.and is promised voucher for housing.she talked about it!";
+      var acts of of terrorism = "https://www.federalregister.gov/documents/2022/04/04/2022-06640/major-portion-prices-and-due-date-for-additional-royalty-payments-on-gas-produced-from-indian-lands;they want me to get out.i dont pay rent cause she has and keeps trying to kill me.already has killed 2 of my dogs.government pays her to let them destroy where i live.ive made complaints, but my complaints are in someone elses names, i never get notice, no lawyer.mail.etc.nothing.i have alot of photos of residence being destroyed.if i can present to you at a later time, whenever i get a chance to appear.they dont let me!"; 
+      var awards = "This is what Mary and others get for setting me up! ttps://www.federalregister.gov/documents/2022/04/04/2022-06997/section-8-housing-choice-vouchers-implementation-of-the-housing-choice-voucher-mobility!";
+      var fraud = terrorism + "awards for false actions against me + you should already know im being set up;
+      }
+ <p>fraud is: @dosomethingalreadyswagger</p>" -->
+ 
+  
