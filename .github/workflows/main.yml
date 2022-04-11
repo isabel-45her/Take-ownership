@@ -1,10 +1,12 @@
 # editable ="false"
 This is a basic workflow to help you get started with Actions
 
-name: main.yml
+job
+- access.yml
+
 
 # Controls when the workflow will run
-on:
+ 
   # Triggers the workflow on push or pull request events but only for the main branch
   push:
     branches: [ main ]
@@ -13,6 +15,7 @@ on:
 
   # Allows you to run this workflow manually from the Actions tab
   workflow:
+  
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -23,8 +26,15 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Xoom A PayPal Service
-      # My Account
+      # access.yml
+      # schema.yml
+      # GET Xoom A PayPal Service History of all transactions including maintenance
+      # add account 99967628333243
+      # 
+      # PayPal cassandrahernandez959@gmail.com 
+        - sb-
+        
+      
       # list all users
       # history of transactions
       # including clean-up
